@@ -22,4 +22,4 @@ Welcome to the Cooking Bot! This bot is designed to help you improve your culina
 
 ## Acknowledgements
 
-Thank you for using the Cooking Bot! We hope you enjoy your culinary journey.
+Thank you for using the Cooking Bot! I hope you enjoy your culinary journey.
