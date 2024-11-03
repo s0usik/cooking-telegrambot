@@ -5,7 +5,7 @@ Welcome to the Cooking Bot! This bot is designed to help you improve your culina
 ## Features
 
 - **Interactive Cooking Assistance**: Get tips and tricks to enhance your cooking.
-- **User -Friendly Commands**: Simple commands to interact with the bot.
+- **User-Friendly Commands**: Simple commands to interact with the bot.
 
 ## Commands
 
